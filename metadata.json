@@ -1,0 +1,6 @@
+{
+  "name": "极简笔记",
+  "description": "原生 Android 笔记 App，支持分组、搜索高亮、导入导出、回收站及编辑增强功能",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
